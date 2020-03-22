@@ -6,7 +6,7 @@ from discord.ext import tasks
 from datetime import datetime
 
 TOKEN = ''
-CHANNEK_ID = '611187520914587648'
+CHANNEK_ID = ''
 client = discord.Client()
 
 @client.event
